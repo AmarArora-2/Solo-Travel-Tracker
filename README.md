@@ -32,8 +32,7 @@ CREATE TABLE visited_countries (
 );
 
 ## Screenshots
-![Travel Tracker Website Page](public/styles/Screenshot 2026-01-31 234859.png)
-
+![Travel Tracker Website Page](<public/styles/Screenshot 2026-01-31 234859.png>)
 
 This README provides a complete overview of your travel tracker application with database integration clearly documented.
 
