@@ -32,7 +32,7 @@ CREATE TABLE visited_countries (
 );
 
 ## Screenshots
-![Travel Tracker Website Page](/public/styles/Screenshot%202026-01-31%20234859.png)
+![Travel Tracker Website Page](https://github.com/AmarArora-2/Solo-Travel-Tracker/blob/main/public/styles/Screenshot%202026-01-31%20234859.png?raw=true)
 
 This README provides a complete overview of your travel tracker application with database integration clearly documented.
 
